@@ -1,0 +1,29 @@
+header {
+	background: $white;
+	box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
+	height: 3em;
+	left: 0;
+	opacity: 1;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10000;
+}
+
+#logo {
+	left: 1em;
+	line-height: 3em;
+	position: absolute;
+	top: 0;
+}
+
+.header-links {
+	line-height: 3em;
+	margin-right: 1em;
+	text-align: right;
+
+	li {
+		display: inline-block;
+		margin-right: 1em;
+	}
+}
