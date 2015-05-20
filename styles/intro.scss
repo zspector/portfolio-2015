@@ -1,0 +1,22 @@
+#intro {
+	background: url('../images/overlay.png'), url('../images/angkor_temple.jpg');
+	background-attachment: fixed, fixed;
+	background-size: 100% 100%, cover;
+	background-position: top left, 25% 10%;
+	background-repeat: repeat, no-repeat;
+	color: $white;
+	padding: 14em 0;
+	text-align: center;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: 900;
+	line-height: 1em;
+	letter-spacing: -4px;
+}
+
+.subtitle {
+	font-size: 1.3em;
+	margin: 1em auto;
+}

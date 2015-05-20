@@ -12,3 +12,11 @@ body {
 	color: $black;
 	font-family: $font-stack;
 }
+
+section {
+	padding: 10em 0;
+}
+
+.text-shadow {
+	text-shadow: 1px 1px black;
+}
